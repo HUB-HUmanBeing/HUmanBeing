@@ -563,7 +563,8 @@
     "download": "Herunterladen",
     "delete": "Datei löschen",
     "return": "Zurück",
-    "downloadAndDecrypt": "Herunterladen und Entschlüsseln der Datei."
+    "downloadAndDecrypt": "Herunterladen und Entschlüsseln der Datei.",
+    "downloadSuccess": "Le fichier à été enregistré avec succès."
   },
   "projectFiles": {
     "limitOneFile": "Die Größe der Dokumente ist auf 15 MB begrenzt",

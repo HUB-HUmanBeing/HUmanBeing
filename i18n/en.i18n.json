@@ -563,7 +563,8 @@
     "download": "Download",
     "delete": "Delete file",
     "return": "Return",
-    "downloadAndDecrypt": "Downloading and decrypting the file."
+    "downloadAndDecrypt": "Downloading and decrypting the file.",
+    "downloadSuccess": "The file was saved successfully."
   },
   "projectFiles": {
     "limitOneFile": "Document size is limited at 15 Mo",

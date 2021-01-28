@@ -563,7 +563,8 @@
     "download": "Scaricare",
     "delete": "Eliminare il file",
     "return": "Indietro",
-    "downloadAndDecrypt": "Scaricamento e decifrazione del file."
+    "downloadAndDecrypt": "Scaricamento e decifrazione del file.",
+    "downloadSuccess": "Le fichier à été enregistré avec succès."
   },
   "projectFiles": {
     "limitOneFile": "La dimensione dei documenti è limitata a 15 MB",
